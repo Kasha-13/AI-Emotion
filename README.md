@@ -1,4 +1,5 @@
-# Emotion
+# Emotion Detection
+
 
 •	Built key facial point detection model.
 •	Performed Image augmentation and data normalization
